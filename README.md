@@ -1,7 +1,10 @@
 # Laravel-Backpack-admin-panel
-This guide will help you create your laravel backpack admin panel 
+This guide will help you create your laravel backpack admin panel
+run these commands side by side in your terminal
 
 Laravel Backpack/base %https://laravel-backpack.readme.io/docs/install-on-laravel-54
+
+run 
 
 > composer require backpack/base
 
@@ -214,3 +217,12 @@ class PageController extends Controller
 }
 
 create a "pages" folder inside views folder
+add a page like about.blade.php
+
+and goto your page in browser .. that you have created in your pages..
+
+localhost:1000/about
+
+make sure you enter that url that you have entered in your create page section
+
+just like 
