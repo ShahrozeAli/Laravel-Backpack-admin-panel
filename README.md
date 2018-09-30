@@ -1,6 +1,7 @@
 # Laravel-Backpack-admin-panel
 This guide will help you create your laravel backpack admin panel 
-% Laravel Backpack/base %https://laravel-backpack.readme.io/docs/install-on-laravel-54
+
+Laravel Backpack/base %https://laravel-backpack.readme.io/docs/install-on-laravel-54
 
 > composer require backpack/base
 
